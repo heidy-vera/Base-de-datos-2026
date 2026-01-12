@@ -1,0 +1,15 @@
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\bin\Debug\net10.0\ejercicio4.exe
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\bin\Debug\net10.0\ejercicio4.deps.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\bin\Debug\net10.0\ejercicio4.runtimeconfig.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\bin\Debug\net10.0\ejercicio4.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\bin\Debug\net10.0\ejercicio4.pdb
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.AssemblyInfoInputs.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.AssemblyInfo.cs
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.csproj.CoreCompileInputs.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.sourcelink.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\refint\ejercicio4.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.pdb
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ejercicio4.genruntimeconfig.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\ejercicio4\obj\Debug\net10.0\ref\ejercicio4.dll
