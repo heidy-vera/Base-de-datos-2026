@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AgendaTelefonica")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("trabajo6.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+061189f69b896b8b1a5658b39ce3de7837635c6b")]
-[assembly: System.Reflection.AssemblyProductAttribute("AgendaTelefonica")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AgendaTelefonica")]
+[assembly: System.Reflection.AssemblyProductAttribute("trabajo6.2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("trabajo6.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

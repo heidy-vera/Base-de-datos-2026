@@ -1,0 +1,15 @@
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\bin\Debug\net10.0\trabajo6.1.exe
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\bin\Debug\net10.0\trabajo6.1.deps.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\bin\Debug\net10.0\trabajo6.1.runtimeconfig.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\bin\Debug\net10.0\trabajo6.1.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\bin\Debug\net10.0\trabajo6.1.pdb
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.AssemblyInfoInputs.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.AssemblyInfo.cs
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.csproj.CoreCompileInputs.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.sourcelink.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\refint\trabajo6.1.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.pdb
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\trabajo6.1.genruntimeconfig.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\trabajo6.1\obj\Debug\net10.0\ref\trabajo6.1.dll
