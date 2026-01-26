@@ -1,0 +1,15 @@
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\bin\Debug\net10.0\semana7.exe
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\bin\Debug\net10.0\semana7.deps.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\bin\Debug\net10.0\semana7.runtimeconfig.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\bin\Debug\net10.0\semana7.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\bin\Debug\net10.0\semana7.pdb
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.GeneratedMSBuildEditorConfig.editorconfig
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.AssemblyInfoInputs.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.AssemblyInfo.cs
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.csproj.CoreCompileInputs.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.sourcelink.json
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\refint\semana7.dll
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.pdb
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\semana7.genruntimeconfig.cache
+D:\LENOVO-PC\Documents\BASE\Base-de-datos-2026\semana7\obj\Debug\net10.0\ref\semana7.dll
