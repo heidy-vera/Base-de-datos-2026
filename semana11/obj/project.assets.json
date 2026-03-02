@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LENOVO-PC\\Documents\\BASE\\Base-de-datos-2026\\AgendaTelefonica\\AgendaTelefonica.csproj",
-      "projectName": "AgendaTelefonica",
-      "projectPath": "D:\\LENOVO-PC\\Documents\\BASE\\Base-de-datos-2026\\AgendaTelefonica\\AgendaTelefonica.csproj",
+      "projectUniqueName": "D:\\LENOVO-PC\\Documents\\BASE\\Base-de-datos-2026\\semana11\\semana11.csproj",
+      "projectName": "semana11",
+      "projectPath": "D:\\LENOVO-PC\\Documents\\BASE\\Base-de-datos-2026\\semana11\\semana11.csproj",
       "packagesPath": "C:\\Users\\LENOVO-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\LENOVO-PC\\Documents\\BASE\\Base-de-datos-2026\\AgendaTelefonica\\obj\\",
+      "outputPath": "D:\\LENOVO-PC\\Documents\\BASE\\Base-de-datos-2026\\semana11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
